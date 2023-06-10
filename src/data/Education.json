@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Institute name",
+    "location": "City, State",
+    "course": "Course Name",
+    "span": "year - year",
+    "specialization": "major name",
+    "score": "9 CGPA"
+  },
+  {
+    "name": "Institute name",
+    "location": "City, State",
+    "course": "Course Name",
+    "span": "year-year",
+    "specialization": "major name",
+    "score": "90 %"
+  },
+  {
+    "name": "Institute name",
+    "location": "City, State",
+    "course": "Course Name",
+    "span": "year-year",
+    "specialization": "",
+    "score": "90 %"
+  }
+]
