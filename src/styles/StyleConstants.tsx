@@ -1,13 +1,14 @@
 export enum StyleConstants {
   WHITE_COLOR = "#ffffff",
-  HEADER = "#6489a7",
-  FOOTER = "rgba(100,137,167,0.25)",
-  ACTIVE_SECTION = "#6489a7",
-  SECTION_BORDER = "#465258",
+  HEADER = "#5e5a66",
+  FOOTER = "#5e5a66",
+  ACTIVE_SECTION = "#46424f",
+  SECTION_BORDER = "#1a1625",
   BLACK_COLOR = "#000000",
-  SKILLS_BG = "#bcd1e3",
-  EDUCATION_BG = "#bcd1e3",
-  NAVIGATION_BG = "#cfe3f2",
+  SKILLS_BG = "#2f2b3a",
+  EDUCATION_BG = "#2f2b3a",
+  NAVIGATION_BG = "#76737e",
+  BACKGROUND_COLOR = "#1a1625",
 
   SPACE_BETWEEN_SECTIONS = 65,
 

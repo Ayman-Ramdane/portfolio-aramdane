@@ -1,0 +1,32 @@
+[
+  {
+    "name": "WaterLoose",
+    "description": "(Ongoing) WaterLoose is a MOBA made with Unreal 5 in C++. 8 players controlling boats are released on the map. The objective is to destroy the other teams base in order to win.",
+    "role": "Gameplay programming",
+    "demoLink": ""
+  },
+  {
+    "name": "Scales and Forks",
+    "description": "Scales & Forks is a city builder made with Unity. you play as a village head trying to make his village survive and prosper. The originality of the game lies in the fact that the manageable units in the management game are the villagers but also dragons that will help throughout the game. The goal is that both species live in harmony, despite the accidents.",
+    "role": "Gameplay programming",
+    "demoLink": "https://chevrubis.itch.io/scales-forks"
+  },
+  {
+    "name": "Form Finder",
+    "description": "Form Finder is a puzzle game made with Unity. You play as the new employee of a factory that needs to sort shapes. Resolve puzzles to help your factory create piece by piece its own sorting AI.",
+    "role": "Gameplay programming",
+    "demoLink": "https://hyusong.itch.io/form-finder"
+  },
+  {
+    "name": "Absolute Destruction Nyudo",
+    "description": "Absolute Destruction Nyudo is a VR game made with Unity. You play as a creature on a destruction rampage in a city. Grab cars around you and throw them at buildings. Evolve to become bigger and cause even more chaos.",
+    "role": "Gameplay programming",
+    "demoLink": "https://hyusong.itch.io/absolute-destruction-nyudo"
+  },
+  {
+    "name": "Jungle Froide",
+    "description": "Jungle Froide is a 2D platformer made with Unity. You play as Liv a human lost on an unknown and hostile planet.",
+    "role": "Gameplay, AI and UI programming",
+    "demoLink": "https://hyusong.itch.io/jungle-froide"
+  }
+]

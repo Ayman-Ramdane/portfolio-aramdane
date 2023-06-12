@@ -1,41 +1,33 @@
 [
   {
     "span": "Year Month -  current",
-    "company": "Google",
-    "linkedIn": "https://www.linkedin.com/company/google/",
-    "twitter": "https://twitter.com/googleindia",
-    "location": "City, State",
+    "company": "Faiveley Transport Tours",
+    "linkedIn": "",
+    "twitter": "",
+    "location": "Saint Pierre des Corps, rance",
     "progress": [
       {
-        "role": "Role Name",
-        "span": "Year Month - Current",
+        "role": "Operation Department Apps Programmer Internship",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
-          "In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
-        ]
-      },
-      {
-        "role": "Role Name",
-        "span": "Year Month - Year Month",
-        "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+          "Programming of a tooling request tracking app",
+          "Processing the evolution of clients' orders - Python",
+          "Automated presentation of data processing results data"
         ]
       }
     ]
   },
   {
-    "span": "Year July - Year Month",
-    "company": "Google",
-    "location": "City, State",
-    "linkedIn": "https://www.linkedin.com/company/google/",
-    "twitter": "https://twitter.com/googleindia",
+    "span": "2021 March - 2021 April",
+    "company": "Les Restos du coeur",
+    "location": "Troyes, France",
+    "linkedIn": "",
+    "twitter": "",
     "progress": [
       {
-        "role": "Role Name",
-        "span": "Year Month - Year Month",
+        "role": "Volunteering Internship",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus",
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+          "Meal distributions",
+          "Writing report on an engineer's social implication"
         ]
       }
     ]

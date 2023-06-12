@@ -1,26 +1,34 @@
 [
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year - year",
-    "specialization": "major name",
-    "score": "9 CGPA"
+    "name": "University of Quebec in Chicoutimi",
+    "location": "Chicoutimi, Quebec, Canada",
+    "course": "Programming",
+    "span": "2023",
+    "specialization": "Video Game Programming Major",
+    "score": ""
   },
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year-year",
-    "specialization": "major name",
-    "score": "90 %"
+    "name": "EPF Engineering School",
+    "location": "Cachan, France",
+    "course": "French Engineering Degree",
+    "span": "2023",
+    "specialization": "Software Programming Major",
+    "score": ""
   },
   {
-    "name": "Institute name",
-    "location": "City, State",
-    "course": "Course Name",
-    "span": "year-year",
+    "name": "High School Henri Poincaré",
+    "location": "Nancy, France",
+    "course": "Intensive two-year study course preparing for French Engineering schools nationwide entrance exams",
+    "span": "2020",
     "specialization": "",
-    "score": "90 %"
+    "score": ""
+  },
+  {
+    "name": "French High School Dominique Savio",
+    "location": "Douala, Cameroon",
+    "course": "French high school diploma in Science (with honors)",
+    "span": "2018",
+    "specialization": "",
+    "score": ""
   }
 ]

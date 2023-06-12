@@ -1,14 +1,42 @@
 [
   {
-    "name": "Project name 1",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur",
-    "sourceCode": "",
+    "name": "Portfolio",
+    "description": "This portfolio, made in REACT using a template and personalized.",
+    "sourceCode": "https://github.com/Ayman-Ramdane/portfolio-aramdane",
+    "sourceCode2": "",
+    "sourceCode3": "",
     "demoLink": ""
   },
   {
-    "name": "Project name 2",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur",
+    "name": "Simple Game Engine - C++",
+    "description": "Adding feature in  C++ to a simple game engine. Features added : Localization, client-serever messages, sound events. (Each feature is on a different repository)",
+    "sourceCode": "https://github.com/Ayman-Ramdane/SimpleGE_Moteur_Regionalisation",
+    "sourceCode2": "https://github.com/Ayman-Ramdane/SimpleGE_Moteur_Reseau",
+    "sourceCode3": "https://github.com/Ayman-Ramdane/SimpleGE_Moteur_Audio",
+    "demoLink": ""
+  },
+  {
+    "name": "Bike renting app in Paris - Kotlin",
+    "description": "Creating a bike renting App on Android studio. Using the official REST API provided by Velib",
+    "sourceCode": "https://github.com/Ayman-Ramdane/velibAndroidApp",
+    "sourceCode2": "",
+    "sourceCode3": "",
+    "demoLink": ""
+  },
+  {
+    "name": "QR code scanning for Gaming Squad Startup - Typescript",
+    "description": "Working with the Gaming Squad Startup to add a feature to their mobile App. Feature : QR code scanning, event tickets handling. Project made using React Native in Typescript",
     "sourceCode": "",
+    "sourceCode2": "",
+    "sourceCode3": "",
+    "demoLink": ""
+  },
+  {
+    "name": "Controlling relays with a ESP32",
+    "description": "Programming a ESP32 card in C to control relays from a mobile app",
+    "sourceCode": "",
+    "sourceCode2": "",
+    "sourceCode3": "",
     "demoLink": ""
   }
 ]

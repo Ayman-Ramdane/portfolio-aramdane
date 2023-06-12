@@ -1,20 +1,18 @@
 import {Box, styled} from "@mui/material";
 import ProjectImg from "../../../assets/project.jpg";
-import {projectImage} from "../../../data/constants";
+import {gameImage} from "../../../data/constants";
 import {CustomButton} from "../../../styles/sectionStyles";
 import {StyleConstants} from "../../../styles/StyleConstants";
 
-interface project {
+interface game {
     name?: string;
     description?: string;
-    sourceCode?: string;
-    sourceCode2?: string;
-    sourceCode3?: string;
+    role?: string;
     demoLink?: string;
 }
 
 interface Prop {
-    project: project;
+    game: game;
 }
 
 const InfoWrapper = styled(Box)(() => ({
@@ -28,7 +26,7 @@ const InfoWrapper = styled(Box)(() => ({
         margin: "0 12px 12px 0",
     },
 }));
-const ProjectWrapper = styled(Box)(({theme}) => ({
+const GameWrapper = styled(Box)(({theme}) => ({
     display: "flex",
     justifyContent: "space-between",
     marginBottom: StyleConstants.SPACE_BETWEEN_SECTIONS,
@@ -50,42 +48,20 @@ const ImageBox = styled(Box)(({theme}) => ({
         },
     },
 }));
-export const Project = ({project}: Prop) => {
+export const Game = ({game}: Prop) => {
     const {
         name = "",
         description = "",
-        sourceCode = "",
-        sourceCode2 = "",
-        sourceCode3 = "",
+        role = "",
         demoLink = "",
-    } = project;
+    } = game;
     return (
-        <ProjectWrapper>
+        <GameWrapper>
             <InfoWrapper>
                 <div className="name bold">{name}</div>
                 <div className="desc">{description}</div>
+                <div className="desc">{`Role : ${role}`} </div>
                 <div className="actions">
-                    {sourceCode === "" ? "" :
-                        <CustomButton>
-                            <a href={sourceCode} target="_blank" rel="noreferrer">
-                                Source Code
-                            </a>
-                        </CustomButton>}
-
-                    {sourceCode2 === "" ? "" :
-                        <CustomButton>
-                            <a href={sourceCode2} target="_blank" rel="noreferrer">
-                                Source Code 2
-                            </a>
-                        </CustomButton>}
-
-                    {sourceCode3 === "" ? "" :
-                        <CustomButton>
-                            <a href={sourceCode3} target="_blank" rel="noreferrer">
-                                Source Code 3
-                            </a>
-                        </CustomButton>}
-
                     {demoLink === "" ? "" :
                         <CustomButton>
                             <a href={demoLink} target="_blank" rel="noreferrer">
@@ -96,11 +72,10 @@ export const Project = ({project}: Prop) => {
             </InfoWrapper>
             <ImageBox>
                 <img
-                    src={projectImage[name.toLowerCase()] || ProjectImg}
-                    alt="project"
+                    src={gameImage[name.toLowerCase()] || ProjectImg}
+                    alt="game"
                 />
             </ImageBox>
-        </ProjectWrapper>
-    )
-        ;
+        </GameWrapper>
+    );
 };

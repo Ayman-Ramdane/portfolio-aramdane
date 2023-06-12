@@ -1,20 +1,35 @@
 {
-  "softSkills": [
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name"
+  "programming": [
+    "C#",
+    "C++",
+    "Java",
+    "Kotlin",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "React Native"
   ],
-  "hardSkills": [
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name",
-    "Skill name"
+  "softwares": [
+    "Unity",
+    "Unreal 5",
+    "Perforce",
+    "Git",
+    "GitHub",
+    "GitKraken",
+    "Trello",
+    "Microsoft Office"
+  ],
+  "languages": [
+    "French : Native",
+    "English : Professional (C1), TOEIC 2022 - 960/990",
+    "Spanish : Conversational (B2)"
+  ],
+  "softSkills": [
+    "Autonomous",
+    "Perseverance",
+    "Problem Solving",
+    "Communication",
+    "TeamWork"
   ]
 }
