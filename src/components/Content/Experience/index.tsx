@@ -8,8 +8,8 @@ const ExperienceContainer = () => {
     <SectionWrapper>
       <TitleWrapper>Experience</TitleWrapper>
       <ExperienceWrapper>
-        {ExperienceList.map((experince, ind) => (
-          <Experience experience={experince} key={ind} />
+        {ExperienceList.map((experience, ind) => (
+          <Experience experience={experience} key={ind} />
         ))}
       </ExperienceWrapper>
     </SectionWrapper>

@@ -1,5 +1,22 @@
 [
   {
+    "span": "2023 September -  2024 April",
+    "company": "Bombardier",
+    "linkedIn": "",
+    "twitter": "",
+    "location": "Montréal, QC, Canada",
+    "progress": [
+      {
+        "role": "AR/VR Programmer Internship",
+        "descriptions": [
+          "Converting project from UE4 to UE5",
+          "Programming Unreal Engine plugin - Blueprint & C++",
+          "Programming VR training - UE5"
+        ]
+      }
+    ]
+  },
+  {
     "span": "2021 September -  2022 January",
     "company": "Faiveley Transport Tours",
     "linkedIn": "",

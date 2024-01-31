@@ -1,5 +1,6 @@
 import faiveleytransporttours from "../assets/faiveleytransporttours.png";
 import lesrestosducoeur from "../assets/lesrestosducoeur.png";
+import bombardierlogo from "../assets/Bombardier_Logo.png";
 import Esp32 from "../assets/ESP32.jpg";
 import GamingSquad from "../assets/gamingsquad.png";
 import Velib from "../assets/velib.png";
@@ -22,6 +23,7 @@ interface Map {
 export const logo: Map = {
     lesrestosducoeur: lesrestosducoeur,
     faiveleytransporttours: faiveleytransporttours,
+    bombardier: bombardierlogo,
 };
 
 export enum Constants {

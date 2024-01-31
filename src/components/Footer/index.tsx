@@ -44,7 +44,7 @@ const FooterContainer = styled(Box)(({theme}) => ({
         width: "95%",
     },
     "& .creator": {
-        fontSize: 12,
+        fontSize: 10,
         opacity: 0.85,
         padding: "0 0 5px",
         "& a": {
