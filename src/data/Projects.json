@@ -1,13 +1,5 @@
 [
   {
-    "name": "Portfolio",
-    "description": "This portfolio, made in REACT using a template and personalized.",
-    "sourceCode": "https://github.com/Ayman-Ramdane/portfolio-aramdane",
-    "sourceCode2": "",
-    "sourceCode3": "",
-    "demoLink": ""
-  },
-  {
     "name": "Simple Game Engine - C++",
     "description": "Adding feature in  C++ to a simple game engine. Features added : Localization, client-server messages, sound events. (Each feature is on a different repository)",
     "sourceCode": "https://github.com/Ayman-Ramdane/SimpleGE_Moteur_Regionalisation",

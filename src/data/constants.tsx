@@ -4,7 +4,6 @@ import bombardierlogo from "../assets/Bombardier_Logo.png";
 import Esp32 from "../assets/ESP32.jpg";
 import GamingSquad from "../assets/gamingsquad.png";
 import Velib from "../assets/velib.png";
-import Portfolio from "../assets/portfolio.png";
 import SimpleGE from "../assets/simplege.png";
 import WaterLoose from "../assets/waterloose.png";
 import ScalesNForks from "../assets/SnF.png";
@@ -37,7 +36,6 @@ export const projectImage: Map = {
     "controlling relays with a esp32": Esp32,
     "qr code scanning for gaming squad startup - typescript": GamingSquad,
     "bike renting app in paris - kotlin": Velib,
-    "portfolio": Portfolio,
     "simple game engine - c++": SimpleGE
 };
 
