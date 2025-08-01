@@ -47,17 +47,7 @@ export const AboutMe = () => {
                 <DetailsWrapper>
                     <div>{aboutMeInfo.aboutMe}</div>
                     <div className="actions">
-                        <CustomButton>
-                            <a href={ResumeEn} rel="noreferrer" target="_blank">
-                                Resume English
-                            </a>
-                        </CustomButton>
 
-                        <CustomButton>
-                            <a href={ResumeFr} rel="noreferrer" target="_blank">
-                                CV français
-                            </a>
-                        </CustomButton>
                     </div>
                 </DetailsWrapper>
             </AboutMeContainer>
